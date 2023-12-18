@@ -1,3 +1,6 @@
+# TODO: 사용 법 개선
+#   <substring> <path> --mode=['both' | 'name' | 'content'] --name-ext=<extname> --content-ext=<extname>
+#   <substring> <path> -m ['both' | 'name' | 'content'] -n <extname> -c <extname>
 # TODO: 숨긴 파일, 폴더 들어가지 않기
 # TODO: . 으로 시작하는 파일, 폴더 들어가지 않기
 # TODO: 그 밖에 ignore 할 이름 구성 가능하게 하기 (node_modules 특별법)
